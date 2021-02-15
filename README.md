@@ -1,4 +1,4 @@
-# Unity Tic-Tac-Toe with Online
+# Unity Worms Game
 
 ## Basic information
 
